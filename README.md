@@ -9,4 +9,6 @@ Download only awsglue folder to your PyCharm project - https://github.com/awslab
 
 Following tutorial here - 
 
-https://learning.tusharsarde.com/2019/11/run-aws-glue-job-in-pycharm-community-edition.html
+https://nja.mfr.mybluehostin.me/apache-spark/amazon-aws-glue-job-local-setup-in-pycharm-community-edition-part-1/
+
+https://nja.mfr.mybluehostin.me/apache-spark/amazon-aws-glue-job-local-setup-in-pycharm-community-edition-part-2/
